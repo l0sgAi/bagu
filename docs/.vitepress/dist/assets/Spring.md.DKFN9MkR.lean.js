@@ -1,0 +1,1 @@
+import{_ as r,c as o,o as n,aj as s}from"./chunks/framework.BZD6ashX.js";const c=JSON.parse('{"title":"IOC","description":"","frontmatter":{},"headers":[],"relativePath":"Spring.md","filePath":"Spring.md"}'),e={name:"Spring.md"};function a(i,t,l,g,p,d){return n(),o("div",null,[...t[0]||(t[0]=[s("",22)])])}const u=r(e,[["render",a]]);export{c as __pageData,u as default};

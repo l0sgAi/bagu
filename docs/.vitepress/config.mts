@@ -17,6 +17,9 @@ export default defineConfig({
       { text: '高性能Redis', link: '/高性能Redis' },
       { text: '消息队列', link: '/消息队列' }
     ],
+    search: {
+      provider: 'local'
+    },
 
     // sidebar: [
     //   {

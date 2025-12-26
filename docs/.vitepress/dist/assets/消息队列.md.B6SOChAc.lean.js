@@ -1,0 +1,1 @@
+import{_ as t,c as o,o as e,aj as l}from"./chunks/framework.BZD6ashX.js";const c=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"消息队列.md","filePath":"消息队列.md"}'),n={name:"消息队列.md"};function s(i,r,a,p,g,d){return e(),o("div",null,[...r[0]||(r[0]=[l("",31)])])}const u=t(n,[["render",s]]);export{c as __pageData,u as default};
