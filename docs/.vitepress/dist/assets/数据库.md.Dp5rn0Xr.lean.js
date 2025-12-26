@@ -1,1 +1,0 @@
-import{_ as i,c as l,o as n,aj as a}from"./chunks/framework.BZD6ashX.js";const d=JSON.parse('{"title":"基础","description":"","frontmatter":{},"headers":[],"relativePath":"数据库.md","filePath":"数据库.md"}'),t={name:"数据库.md"};function p(r,s,o,g,e,h){return n(),l("div",null,[...s[0]||(s[0]=[a("",58)])])}const E=i(t,[["render",p]]);export{d as __pageData,E as default};

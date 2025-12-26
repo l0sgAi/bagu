@@ -14,6 +14,7 @@ export default defineConfig({
       { text: 'Elasticsearch', link: '/Elasticsearch' },
       { text: 'LLM与Agent', link: '/LLM与Agent' },
       { text: 'Spring', link: '/Spring' },
+      { text: 'JVM与性能调优', link: '/JVM' },
       { text: '高性能Redis', link: '/高性能Redis' },
       { text: '消息队列', link: '/消息队列' }
     ],

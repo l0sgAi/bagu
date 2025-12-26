@@ -1,0 +1,1 @@
+import{_ as i,c as l,o as e,aj as r}from"./chunks/framework.BZD6ashX.js";const u=JSON.parse('{"title":"☕ JVM 核心知识","description":"","frontmatter":{},"headers":[],"relativePath":"JVM.md","filePath":"JVM.md"}'),t={name:"JVM.md"};function o(n,a,s,d,c,g){return e(),l("div",null,[...a[0]||(a[0]=[r("",28)])])}const m=i(t,[["render",o]]);export{u as __pageData,m as default};

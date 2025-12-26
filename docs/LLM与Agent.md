@@ -1,4 +1,6 @@
-### 一、 核心概念（Agent 是什么？）
+# 🤖LLM&Agent
+
+### I. 核心概念（Agent 是什么？）
 
 #### 1. 什么是 AI Agent？它和传统 Chatbot 有什么区别？
 
@@ -33,7 +35,7 @@ ReAct = **Reasoning（推理）+ Acting（行动）**。
 
 ---
 
-### 二、 关键组件与实现（怎么做？）
+### II. 关键组件与实现（怎么做？）
 
 #### 4. LLM 是如何调用外部工具（Function Calling）的？
 
@@ -78,7 +80,7 @@ LLM 本身不能直接运行代码或发请求。
 
 ---
 
-### 三、 RAG 与数据增强（怎么懂知识？）
+### III. RAG 与数据增强（怎么懂知识？）
 
 #### 8. 什么是 RAG？为什么 Agent 需要 RAG？
 
@@ -105,7 +107,7 @@ RAG（Retrieval-Augmented Generation，检索增强生成）。
 
 ---
 
-### 四、 工程挑战与优化（怎么避坑？）
+### IV. 工程挑战与优化（怎么避坑？）
 
 #### 10. 如何解决 LLM 的“幻觉”问题？
 
@@ -133,5 +135,3 @@ RAG（Retrieval-Augmented Generation，检索增强生成）。
 2. **Ragas 框架：** 评估 RAG 的检索准确性（Context Precision）和生成忠实度（Faithfulness）。
 
 3. **端到端测试：** 设定固定任务集，检查工具调用是否成功，结果是否符合预期。
-
----

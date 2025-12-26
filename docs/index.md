@@ -10,6 +10,9 @@ hero:
     - theme: brand
       text: 1️⃣高性能评论模块系统设计
       link: /场景题-评论缓存设计
+    - theme: brand
+      text: 2️⃣高性能弹幕系统设计
+      link: /高性能弹幕系统
 
 features:
   - title: 从基础到场景
