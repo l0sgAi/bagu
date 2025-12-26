@@ -3,7 +3,7 @@
 layout: home
 
 hero:
-  name: "Bagu for Me And for All"
+  name: "Bagu for me and for all"
   text: "We need bagu to get a f**king job!"
   tagline: 场景题收集⬇️
   actions:

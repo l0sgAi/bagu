@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   base: '/bagu/',
-  title: "Bagu for Me And for all",
+  title: "Bagu for me and for all",
   description: "We need bagu to get a f**king job!",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
