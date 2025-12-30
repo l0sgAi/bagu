@@ -11,7 +11,10 @@ hero:
       text: 1️⃣高性能评论模块系统设计
       link: /场景题-评论缓存设计
     - theme: brand
-      text: 2️⃣高性能弹幕系统设计
+      text: 2️⃣高性能点赞模块系统设计
+      link: /场景题-点赞系统设计
+    - theme: brand
+      text: 3️⃣高性能弹幕系统设计
       link: /高性能弹幕系统
 
 features:
