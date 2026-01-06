@@ -1,0 +1,1 @@
+import{_ as i,c as e,o as a,aj as o}from"./chunks/framework.BZD6ashX.js";const h=JSON.parse('{"title":"🪟Linux 命令基础","description":"","frontmatter":{},"headers":[],"relativePath":"Linux命令.md","filePath":"Linux命令.md"}'),p={name:"Linux命令.md"};function d(c,l,r,t,u,n){return a(),e("div",null,[...l[0]||(l[0]=[o("",18)])])}const _=i(p,[["render",d]]);export{h as __pageData,_ as default};

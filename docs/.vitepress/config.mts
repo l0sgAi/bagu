@@ -18,7 +18,8 @@ export default defineConfig({
       { text: '高性能Redis', link: '/高性能Redis' },
       { text: '消息队列', link: '/消息队列' },
       { text: '图和树', link: '/数据结构' },
-      { text: '计算机网络', link: '/计算机网络' }
+      { text: '计算机网络', link: '/计算机网络' },
+      { text: 'Linux', link: '/Linux命令' }
     ],
     search: {
       provider: 'local'
